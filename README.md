@@ -1,5 +1,5 @@
 # estatistica-aplicada-a-computacao
-Todos os projetos desenvolvidos na cadeira de Estatística Aplicada à Computação. (Projetos com Pandas e Dataframes)
+Todos os projetos desenvolvidos voltado para o estudo de Analise de Dados. (Projetos com Pandas e Dataframes)
 
 
 <div>
